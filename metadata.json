@@ -1,0 +1,6 @@
+{
+  "name": "Telluric Atlas",
+  "description": "Real-time global seismic activity explorer powered by the USGS Earthquake Hazards Program API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
